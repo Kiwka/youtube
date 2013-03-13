@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/Exceptions
+END
+MalformedCsvException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/Exceptions/MalformedCsvException.cs
+END
+MissingFieldCsvException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/Exceptions/MissingFieldCsvException.cs
+END

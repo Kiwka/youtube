@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv
+END
+MissingFieldAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/MissingFieldAction.cs
+END
+CsvReader.RecordEnumerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/CsvReader.RecordEnumerator.cs
+END
+CsvReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/CsvReader.cs
+END
+ParseErrorAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/ParseErrorAction.cs
+END
+CachedCsvReader.CsvPropertyDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/CachedCsvReader.CsvPropertyDescriptor.cs
+END
+CachedCsvReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/CachedCsvReader.cs
+END
+CsvReader.DataReaderValidations.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/CsvReader.DataReaderValidations.cs
+END
+CachedCsvReader.CsvBindingList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/CachedCsvReader.CsvBindingList.cs
+END
+CachedCsvReader.CsvRecordComparer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/984/trunk/clients/cs/samples/YouTubeUploader/LumenWorks.Framework.IO/Csv/CachedCsvReader.CsvRecordComparer.cs
+END
